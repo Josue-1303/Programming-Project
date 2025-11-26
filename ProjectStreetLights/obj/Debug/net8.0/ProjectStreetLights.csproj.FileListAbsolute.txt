@@ -1,0 +1,42 @@
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.exe
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.deps.json
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.runtimeconfig.json
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\refint\ProjectStreetLights.dll
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Desktop\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ref\ProjectStreetLights.dll
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.exe
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.deps.json
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.runtimeconfig.json
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfoInputs.cache
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfo.cs
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.csproj.CoreCompileInputs.cache
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\refint\ProjectStreetLights.dll
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.genruntimeconfig.cache
+C:\Users\c169144\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ref\ProjectStreetLights.dll
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.exe
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.deps.json
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.runtimeconfig.json
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\bin\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfoInputs.cache
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.AssemblyInfo.cs
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.csproj.CoreCompileInputs.cache
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.dll
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\refint\ProjectStreetLights.dll
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.pdb
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ProjectStreetLights.genruntimeconfig.cache
+C:\Users\Josue Morales\OneDrive - Centria ammattikorkeakoulu Oy\Documents\Project_StreetLights\ProjectStreetLights\obj\Debug\net8.0\ref\ProjectStreetLights.dll
