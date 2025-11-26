@@ -1,6 +1,6 @@
 namespace StreetLights
 {
-
+    using System;
     public class Program 
     {
         public static int Streets_Left = 5;
@@ -11,7 +11,7 @@ namespace StreetLights
             TypeEffect("Welcome to my code\nIn this code, you will try to cross the street\nSo easy right?\nWell let's get started.");
 
             //User introduction//
-            TypeEffect("First of all, what is your ");
+            TypeEffect(" First of all, what is your ");
             TypeEffect("name?", ConsoleColor.Yellow);
             Console.WriteLine();
             string name = Console.ReadLine()!;
@@ -39,7 +39,7 @@ namespace StreetLights
                 Ans = Console.ReadLine()!.ToUpper();  
                 // I put ! because it gave me a null warning //
                 //ToUpper turns the user input to UPPERCASE so that it fits in the loop//
-                if (Ans == "NO")
+                if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     Streets_Left--; //This indicates the amount of questions left//
                     Console.ForegroundColor = ConsoleColor.Yellow;//Console color to add format to the text//
@@ -47,7 +47,7 @@ namespace StreetLights
                     Console.ResetColor();
                     break;
                 }
-                else if (Ans == "YES")
+                else if (Ans == "YES" || Ans == " YES"|| Ans == " YES " || Ans == "YES ") // In case the user hits the space bar// 
                 {
                     DIE();
                 }
@@ -61,7 +61,7 @@ namespace StreetLights
                 TypeEffect(lights[1],ConsoleColor.Red);
                 TypeEffect(" but there are no cars coming your way\nDo you want to try to cross the street?\n");
                 Ans = Console.ReadLine()!.ToUpper();
-                if (Ans == "NO")
+                if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     Streets_Left--;
                     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -69,7 +69,7 @@ namespace StreetLights
                     Console.ResetColor();
                     break;
                 }
-                else if (Ans == "YES")
+                else if (Ans == "YES" || Ans == " YES"|| Ans == " YES " || Ans == "YES ")
                 {
                     DIE();
                 }
@@ -83,7 +83,7 @@ namespace StreetLights
                 TypeEffect(lights[0], ConsoleColor.Green);
                 TypeEffect(" and no cars coming your way\nDo you want to try to cross the street?\n");
                 Ans = Console.ReadLine()!.ToUpper();
-                if (Ans == "YES")
+                if (Ans == "YES" || Ans == " YES"|| Ans == " YES " || Ans == "YES ")
                 {
                     Streets_Left--;
                     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -91,7 +91,7 @@ namespace StreetLights
                     Console.ResetColor();
                     break;
                 }
-                else if (Ans == "NO")
+                else if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     DIE();
                 }
@@ -103,7 +103,7 @@ namespace StreetLights
             {
                 TypeEffect("In this street there are no lights, good luck\nNo cars on the right...\nThere's a car out of control coming right at you from the left\nDo you want to cross the street?\n");
                 Ans = Console.ReadLine()!.ToUpper();
-                if (Ans == "YES")
+                if (Ans == "YES" || Ans == " YES"|| Ans == " YES " || Ans == "YES ")
                 {
                     Streets_Left--;
                     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -111,7 +111,7 @@ namespace StreetLights
                     Console.ResetColor();
                     break;
                 }
-                else if (Ans == "NO")
+                else if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     DIE();
                 }
@@ -125,7 +125,7 @@ namespace StreetLights
                 TypeEffect(lights[2], ConsoleColor.Yellow);
                 TypeEffect(" but there is a car coming at you from the right\nDo you want to cross the street?\n");
                 Ans = Console.ReadLine()!.ToUpper();
-                if (Ans == "YES")
+                if (Ans == "YES" || Ans == " YES"|| Ans == " YES " || Ans == "YES ")
                 {
                     Streets_Left--;
                     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -136,7 +136,7 @@ namespace StreetLights
                     Console.ResetColor();
                     break;
                 }
-                else if (Ans == "NO")
+                else if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     DIE();
                 }
