@@ -1,7 +1,5 @@
 namespace StreetLights
 {
-    using System;
-    using System.Runtime.InteropServices.Marshalling;
 
     public class Program 
     {
