@@ -26,7 +26,13 @@ namespace StreetLights
             //Challenge//
             TypeEffect("Welcome!! ");
             TypeEffect(name, ConsoleColor.Yellow);
-            TypeEffect(" you are in a life or death situation\nIn front of you, you can see some street lights");
+            TypeEffect(" you are in a");
+            TypeEffect(" life ", ConsoleColor.Green);
+            Console.ResetColor();
+            TypeEffect("or");
+            TypeEffect(" death ", ConsoleColor.Red);
+            Console.ResetColor();
+            TypeEffect("situation\nIn front of you, you can see some street lights");
             Console.WriteLine();
 
             //First loop// 
@@ -35,11 +41,11 @@ namespace StreetLights
                 TypeEffect("The light is ");
                 TypeEffect(lights[0], ConsoleColor.Green);
                 //Here I star using the elements of the list above//
-                TypeEffect(" but it's raining so bad\nDo you want to try to cross the street?\n");
+               TypeEffect(" but it's raining so bad\nDo you want to try to cross the street?\n");
                 Ans = Console.ReadLine()!.ToUpper();  
                 // I put ! because it gave me a null warning //
                 //ToUpper turns the user input to UPPERCASE so that it fits in the loop//
-                if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
+                 if (Ans == "NO" || Ans == "NO " || Ans == " NO " || Ans == " NO")
                 {
                     Streets_Left--; //This indicates the amount of questions left//
                     Console.ForegroundColor = ConsoleColor.Yellow;//Console color to add format to the text//
